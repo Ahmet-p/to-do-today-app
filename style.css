@@ -1,7 +1,7 @@
 body {
     background: linear-gradient(130deg, #9c5a0f, #285a61);
     margin: 200px;
-    height: 65vh;
+    height: 100vh;
 }
 
 
@@ -140,7 +140,12 @@ body {
   }
   
 
-  
+  @media (max-width: 1500px){
+    body{
+      height: 100vh;
+      margin: 200px 60px 60px 60px;
+    }
+  }
 
   @media (max-width: 900px) {
     body{
