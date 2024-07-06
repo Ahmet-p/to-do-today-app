@@ -119,7 +119,7 @@ body {
   ul li span {
       position: absolute;
       right: 0;
-      top: 6;
+      top: 8px;
       width: 24px;
       height: 24px;
       font-size: 18px;
