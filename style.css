@@ -61,7 +61,7 @@ body {
       border:none;
       outline: none;
       padding: 12px 22px;
-      background: #17d87e;
+      background: #d8b517;
       border: 2px solid rgba(0, 0, 0, 0.226);
       color: #535353;
       font-size: 16px;
@@ -73,7 +73,7 @@ body {
   
   #addBtn:hover {
     color: #505050;
-      background-color: #00a708b6;
+      background-color: #a78800ce;
       transform: scale(1.07);
       border: 2.5px solid rgba(0, 0, 0, 0.308);
       transition: 0.3s;
@@ -119,7 +119,7 @@ body {
   ul li span {
       position: absolute;
       right: 0;
-      top: 8px;
+      top: 9px;
       width: 24px;
       height: 24px;
       font-size: 18px;
